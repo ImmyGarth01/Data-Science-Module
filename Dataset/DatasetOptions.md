@@ -1,4 +1,4 @@
-# Database evaluation table:
+# Database evaluation table
 
 ## Criteria:
 
